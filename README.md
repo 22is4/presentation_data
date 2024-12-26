@@ -9,3 +9,7 @@
 
 - 회의록
 - 한컴 파일로 업로드
+
+## Notion
+
+- https://www.notion.so/cocoquiet/22is4-155b29f5a0c24fafa5120f023220e6ca
